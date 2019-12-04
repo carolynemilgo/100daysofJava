@@ -15,6 +15,8 @@ public static void main(String[] args) {
     //Assign names that will be output
     personA.name="Jane";
     personB.name="John";
+    //Assign specific ages
+    
     personA.age=30;
     personB.age=40;
 
