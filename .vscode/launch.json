@@ -1,0 +1,102 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArraysPractice",
+            "request": "launch",
+            "mainClass": "ArraysPractice",
+            "projectName": "Java Refresh_8c18481c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SwithPractice",
+            "request": "launch",
+            "mainClass": "SwithPractice",
+            "projectName": "Java Refresh_8c18481c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GettingInput",
+            "request": "launch",
+            "mainClass": "GettingInput",
+            "projectName": "Java Refresh_8c18481c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WhileBreakLoop",
+            "request": "launch",
+            "mainClass": "WhileBreakLoop",
+            "projectName": "Java Refresh_8c18481c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SwitchDayOfWeek",
+            "request": "launch",
+            "mainClass": "SwitchDayOfWeek",
+            "projectName": "Java Refresh_8c18481c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Grades",
+            "request": "launch",
+            "mainClass": "Grades",
+            "projectName": "Java Refresh_8c18481c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - instanceOfOperator",
+            "request": "launch",
+            "mainClass": "instanceOfOperator",
+            "projectName": "Java Refresh_8c18481c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArithmeticDemo",
+            "request": "launch",
+            "mainClass": "ArithmeticDemo",
+            "projectName": "Java Refresh_8c18481c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FloatAndDecimal",
+            "request": "launch",
+            "mainClass": "FloatAndDecimal",
+            "projectName": "Java Refresh_8c18481c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ForLoop",
+            "request": "launch",
+            "mainClass": "ForLoop",
+            "projectName": "Java Refresh_8c18481c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Loops",
+            "request": "launch",
+            "mainClass": "Loops",
+            "projectName": "Java Refresh_8c18481c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringPractice",
+            "request": "launch",
+            "mainClass": "StringPractice",
+            "projectName": "Java Refresh_8c18481c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringTypes",
+            "request": "launch",
+            "mainClass": "StringTypes",
+            "projectName": "Java Refresh_8c18481c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "Java Refresh_8c18481c"
+        }
+    ]
+}
