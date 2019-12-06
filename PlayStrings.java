@@ -43,5 +43,20 @@ public class PlayStrings{
        System.out.println(s.toString());
 
 
+       //formatting strings
+       System.out.println("Carolyne \t This will create a tab \n And then I will get a new line output" );
+       System.out.print("Carolyne \t This will create a tab \n And then I will get a new line output" );
+       System.out.println("Yeeey");//if this follow Print then  it will print in one line
+
+       //There is also printf
+
+       System.out.printf("My name is Carol and I have %2d:litres of milk.", 5);
+
+
+       for (int i=0; i < 12;  i++){
+
+           System.out.printf("There were %2d ducks and the little one said roll over. \n", i);
+       }
+
     }
 }
