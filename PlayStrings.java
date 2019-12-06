@@ -58,5 +58,11 @@ public class PlayStrings{
            System.out.printf("There were %2d ducks and the little one said roll over. \n", i);
        }
 
+       //formatting floating point numbers
+
+
+       System.out.printf("PI is equal to %3.2f \n", 3.1459);
+       System.out.printf("PI is equal to %5f" , 3.1459);
+
     }
 }

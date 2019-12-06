@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Cat",
+            "request": "launch",
+            "mainClass": "Cat"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - PlayStrings",
             "request": "launch",
             "mainClass": "PlayStrings"
