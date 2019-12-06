@@ -2,6 +2,30 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - PlayStrings",
+            "request": "launch",
+            "mainClass": "PlayStrings"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StaticVariablesMethoda",
+            "request": "launch",
+            "mainClass": "StaticVariablesMethoda"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Numbers",
+            "request": "launch",
+            "mainClass": "Numbers"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StaticVariablesMethods",
+            "request": "launch",
+            "mainClass": "StaticVariablesMethods"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - App",
             "request": "launch",
             "mainClass": "App"
