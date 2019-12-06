@@ -32,5 +32,16 @@ public class PlayStrings{
 
        //Basically Stringbuilder gives you a more efficient memory way of appending text
 
+       //Another way of doing the same thing as above
+       StringBuilder s = new StringBuilder();
+       s.append("My name is Bobby")  //no semicolon
+       .append(" . ")
+       .append("I am a German Shepherd"); //ideally should be one line
+
+       //print the combined string
+
+       System.out.println(s.toString());
+
+
     }
 }
